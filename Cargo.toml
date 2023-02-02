@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "raylibrs-sys",
+    "raylibrs"
+]
